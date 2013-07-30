@@ -1,0 +1,5 @@
+Gemfile.lock
+README.html
+TODO.html
+js/src/*.js
+spec/unit/*.js
